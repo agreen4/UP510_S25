@@ -1,5 +1,5 @@
 ---
-title: "UP 591: Capstone Seminar"
+title: "UP 510: Plan Making Workshop - Teutopolis"
 format: html
 toc: false
 sidebar: false
