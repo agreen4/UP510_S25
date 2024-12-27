@@ -1,0 +1,23 @@
+---
+title: "Course Paperwork"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+## Deliverable Description
+
+## Resources
+
+## Submission Instructions
+
+Upload your course paperwork as separate PDF documents to the Box using the below upload portal. Before you upload, save your files using the following naming conventions:
+
+1. LastName_FirstName_Agreement.pdf
+
+2. AICP Code of Ethics and Professional Conduct: LastName_FirstName_AICP.pdf
+
+Where LastName is your surname (last name) and FirstName is your first name. Improperly named files will be considered not submitted.
+
+<iframe src="" height="900" width="800"></iframe>

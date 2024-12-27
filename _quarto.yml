@@ -15,7 +15,7 @@ website:
       - href: syllabus/syllabus.qmd
         text: "Syllabus"
       - href: deliverables/deliverables.qmd
-        text: "Milestones"
+        text: "Deliverables"
       - href: schedule/schedule.qmd
         text: "Schedule"
     search: true
