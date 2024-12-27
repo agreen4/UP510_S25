@@ -1,0 +1,130 @@
+---
+title: "Workshop Information"
+format: html
+toc: true
+sidebar: false
+editor: source
+---
+
+## Course Information
+
+UP 510: Plan Making Workshop is a central component for the training of urban planning professionals in the MUP Program. The workshop is structured to support students in developing professional experience *through practice*.
+
+This workshop will develop an update to the Village of Teutopolis Comprehensive Plan. The Plan was last updated in 2011, however given rapid residential and business growth in the community, the Village wants to account for these changes in their plan.
+
+Working as a team, we will perform an update to the comprehensive plan including community data collection and analysis. You will facilitate public meetings as well as key stakeholder meetings within the community. Our expected deliverable by the end of the semester is a complete comprehensive plan update to be presented to the Village Board.
+
+### Learning Goals
+
+Students in this workshop will:
+
+1. Become familiar with the purpose and uses of comprehensive plan making;
+
+2. Apply concepts and skills from prior courses to the practice of plan making;
+
+3. Engage with the local community to make a meaningful contribution to ongoing planning efforts;
+
+4. Develop perspective and skills associated with professional practice as an urban planner.
+
+### Workshop Format
+
+This is a workshop class. Consequently most class sessions will be work sessions. We will spend some time in the first few weeks building shared background and goal setting for tasks to be completed during the remainder of the semester. These tasks will be group efforts and will require engagement and leadership in project management and producing a quality work product for our client to adopt and use. As students working on a “real world” planning process, expect to spend time outside of class accomplishing the plan making tasks.
+
+## Grading, Participation, and Attendance
+
+Our shared success is predicated upon your full participation and engagement in workshop sessions, field visits, and community meetings.
+
+### Workshop Assessment
+
+Your grade in the seminar will be based upon the following:
+
+|  |  |  |
+|-------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Attendance and Participation** | 20% | Attend and actively participate in workshop sessions, field visits, and community sessions. |
+| **Individual Deliverables** | 20% | Completion of individual deliverables. |
+| **Plan Deliverables** | 60% | Timely engagement with and completion of plan deliverables. |
+
+### Participation
+
+The learning environment in this workshop depends upon your participation. Full participation is expected for all sessions, field visits, and public sessions. Participation means not just being physically present, but actively engaging, leading, and demonstrating professional proficiency, ethics, and values.
+
+### Attendance and Absences
+
+Attendance will be taken and full participation is expected to satisfy workshop requirements.
+
+The [Student Code](https://studentcode.illinois.edu/article1/part5/1-501) outlines those circumstances in which a student may be eligible to obtain a letter from the Office of the Dean of Students for missed class.  When eligible, students must submit an [absence letter request](https://odos.illinois.edu/resources/students/absence-letters) within two weeks of returning to class following the absence.    
+
+### Accommodations for Religious Observances
+
+It is the policy of the University of Illinois Urbana-Champaign to reasonably accommodate its students’ religious beliefs, observances, and practices that conflict with a student’s class attendance or participation in a scheduled examination or work requirement, consistent with state and federal law.  
+
+Students should make requests for accommodation in advance of the conflict to allow time for both consideration of the request and alternate procedures to be prepared.  Requests should be directed to the instructor.  The Office of the Dean of Students provides an [optional resource](https://odos.illinois.edu/community-of-care/resources/students/religious-observances/) on its website to assist students in making such requests. 
+
+In order to best facilitate planning and communication between students and faculty, we request that students make requests for absence letters as early as possible in the semester in which the request applies.
+
+For more information on attendance policy as described in the University of Illinois Student Code, please see Sections [1-501](https://studentcode.illinois.edu/article1/part5/1-501/) and [1-502](https://studentcode.illinois.edu/article1/part5/1-502/).
+
+### Accommodations for Students with Disabilities
+
+The University of Illinois is committed to ensuring that all students, including those with disabilities, do not experience barriers to learning and participating fully in class. If you have a letter of accommodation from DRES and have not already given it to me, please do so as soon as possible to ensure your accommodation needs are met. 
+
+To obtain disability-related academic adjustments and/or auxiliary aids, students with disabilities must contact [Disability Resources and Educational Services (DRES)](https://www.disability.illinois.edu) as soon as possible. To contact DRES, you may visit 1207 S. Oak St., Champaign, call 333-1970, e-mail [disability\@illinois.edu](mailto:%20disability@illinois.edu), or go to the DRES website.
+
+## Honor Code and Learning Environment
+
+The University of Illinois Urbana-Champaign [Student Code](http://studentcode.illinois.edu/) should be considered as a part of this syllabus. Students should pay particular attention to [Article 1, Part 4: Academic Integrity](https://studentcode.illinois.edu/article1/part4/1-401/). The Illinois Student Code states: "It is the responsibility of each student to refrain from infractions of academic integrity, from conduct that may lead to suspicion of such infractions, and from conduct that aids others in such infractions." Note that you are subject to the Honor Code, as well as procedures for addressing violations to the Code, regardless of whether you have read it and understand it. According to the Code, "ignorance is no excuse." Academic dishonesty may result in a failing grade.  It is your responsibility to read this policy to avoid any misunderstanding. Do not hesitate to ask the instructor if you are ever in doubt about what constitutes plagiarism, cheating, fabrication, or any other breach of academic integrity.
+
+### Academic Integrity Expectations
+
+To meet this standard in this class, note the following: in written work, all ideas (as well as data or other information) that are not your own must be cited. Note that ideas that require citation may not have been published or written down anywhere. While you are free---and encouraged---to discuss work with your peers, all of your data collection, analysis, and writing should be your own. Since this course focuses on the application of specialized, professional knowledge, generative AI and related tools will be of little use. While they may be used to help produce code or protocols for analysis, writing, synthesis, and analytic outputs included in any interim or final deliverables should be your own. Any use of generative AI should be noted in your deliverables including details on how and why it was used.
+
+Because this class focuses on exposure to professional practice and leadership, you are also expected to abide by the [AICP Code of Ethics and Professional Conduct](https://www.planning.org/ethics/ethicscode/). Any violations of the Code of Ethics will be treated similarly to violations of the University's Honor Code.
+
+::: {.callout-warning}
+The penalty for failing to meet the principles or spirit of the honor code may include automatic failure of the assignment or the class, at the discretion of the instructor.
+:::
+
+### Learning Environment
+
+The Department of Urban and Regional Planning is committed to maintaining a learning environment that is rooted in the goals and responsibilities of professional planners. By enrolling in a class offered by the Department of Urban and Regional Planning, students agree to be responsible for maintaining an atmosphere of mutual respect in all activities, including lectures, discussions, labs, projects, and extracurricular programs. See Student Code Article 1-Student Rights and Responsibilities, Part 1. Student Rights: [§1-102](https://studentcode.illinois.edu/article1/part1/1-102).
+
+### Family Educational Rights and Privacy Act
+
+Please visit the [Registrar's website](http://registrar.illinois.edu/ferpa) for information about the Family Educational Rights and Privacy Act (FERPA).
+
+### Health and Safety
+
+Following University policy, all students are required to engage in appropriate behavior to protect the health and safety of the community. If you feel ill, do not come to class. In addition, if you test positive for COVID-19 or have had an exposure that requires testing and/or quarantine, do not attend class. Please notify me, and at my discretion, you will be given excused absences for these class sessions. We will also develop a plan to discuss how to make up any missed work.
+
+### Disruptive Behavior
+
+Behavior that persistently or grossly interferes with classroom activities is considered disruptive behavior and may be subject to disciplinary action. Such behavior inhibits other students’ ability to learn and an instructor’s ability to teach. A student responsible for disruptive behavior may be required to leave class pending discussion and resolution of the problem and may be reported to the [Office for Student Conflict Resolution](https://conflictresolution.illinois.edu); [conflictresolution\@illinois.edu](mailto:conflictresolution@illinois.edu); 333-3680 for disciplinary action. 
+
+### Community of Care
+
+As members of the Illinois community, we each have a responsibility to express care and concern for one another. If you come across a classmate whose behavior concerns you, whether in regard to their well-being or yours, we encourage you to refer this behavior to the [Connie Frank CARE Center](https://odos.illinois.edu/community-of-care/CAREcenter) in the [Office of the Dean of Students](https://odos.illinois.edu).  You may do so by calling 217-333-0050 or by submitting an [online referral](https://odos.illinois.edu/community-of-care/referral).  Based on your report, staff in the Student Assistance Center will reach out to offer support and assistance.  
+
+Further, as a Community of Care, we want to support you in your overall wellness. We know that students sometimes face challenges that can impact academic performance (examples include mental health concerns, food insecurity, homelessness, personal emergencies). Should you find that you are managing such a challenge and that it is interfering with your coursework, you are encouraged to contact the [Connie Frank CARE Center](https://odos.illinois.edu/community-of-care/CAREcenter) in the [Office of the Dean of Students](https://odos.illinois.edu) for support and referrals to campus and/or community resources.
+
+### Mental Health
+
+Significant stress, mood changes, excessive worry, substance/alcohol misuse or interferences in eating or sleep can have an impact on academic performance, social development, and emotional wellbeing. The University of Illinois offers a variety of confidential services including individual and group counseling, crisis intervention, psychiatric services, and specialized screenings which are covered through the Student Health Fee. If you or someone you know experiences any of the above mental health concerns, it is strongly encouraged to contact or visit any of the University’s resources provided below.  Getting help is a smart and courageous thing to do for yourself and for those who care about you.
+
+-   [Counseling Center](https://counselingcenter.illinois.edu/): (217) 333-3704
+-   [McKinley Health Center](https://mckinley.illinois.edu): (217) 333-2700
+-   [988 Suicide and Crisis Lifeline](https://988lifeline.org/?utm_source=google&utm_medium=web&utm_campaign=onebox): (800) 273-8255
+-   [Rosecrance Crisis Line](https://rosecrance.org/central-illinois/) (217) 359-4141 (available 24/7, 365 days a year)
+
+If you are in immediate danger, call 911.
+
+### Sexual Misconduct Reporting Policy
+
+The University of Illinois is committed to combating sex-based misconduct. Faculty and staff members are required to report any instances of sex-based misconduct to the University’s [Title IX Office](https://diversity.illinois.edu/about/title-ix-office/). In turn, an individual with the Title IX Office will provide information about rights and options, including accommodations, support services, the campus disciplinary process, and law enforcement options. 
+
+A list of the designated University employees who, as counselors, confidential advisors, and medical professionals, do not have this reporting responsibility and can maintain confidentiality, can be found [here](wecare.illinois.edu/resources/students/#confidential). 
+
+Other information about resources and reporting is available at [wecare.illinois.edu](wecare.illinois.edu). 
+
+### Staying in Touch
+
+As you learn and face challenges this semester, I need you to communicate with me, either during our course sessions or individually. You can schedule an appointment with me at your convenience via my [Calendly page]({{< var instructor.calendly_url >}}). I promise to listen, to be a resource, and to help in any way that I can - if I can't help you, I will find someone who can.
