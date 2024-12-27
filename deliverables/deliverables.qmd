@@ -6,17 +6,17 @@ sidebar: true
 editor: source
 ---
 
-There are X major deliverables that you will complete for this workshop:
+There are 8 major deliverables that you will complete for this workshop:
 
 | Deliverable | Due Date | Description |
 |---------------------------------------------------------|----------------------------|----------------------------------------------------------------|
-| [Class Paperwork](01_paperwork.qmd) (Individual) | 1/24/2025 | Complete course paperwork associated with workshop intellectual property and ethical conduct. |
-| Individual Learning Goals | 1/31/2025 | Individual memo on workshop learning goals and areas of leadership. |
-| Weekly Group Memo | Weekly starting 1/31/2025 | Weekly team update memo on group progress. |
-| Draft Plan Components |  | Submit draft plan components for group review and peer feedback. |
-| Draft Plan - Internal Review |  | Draft plan for internal review. |
-| Draft Plan - External Review | 5/9/2025 | Draft plan for external review and sharing with the comprehensive plan committee. |
-| Plan Presentation to Village of Teutopolis | TBD | Final presentation for the comprehensive plan committee. |
-| Final Assessment (Individual) | 5/9/2025 | Individual final assessment of semester learning and leadership goals. |
+| **[Class Paperwork](01_paperwork.qmd) (Individual)** | 1/24/2025 | Complete course paperwork associated with workshop intellectual property and ethical conduct. |
+| **Individual Learning Goals** | 1/31/2025 | Individual memo on workshop learning goals and areas of leadership. |
+| **Weekly Group Memo** | Weekly starting 1/31/2025 | Weekly team update memo on group progress. |
+| **Draft Plan Components** |  | Submit draft plan components for group review and peer feedback. |
+| **Draft Plan - Internal Review** |  | Draft plan for internal review. |
+| **Draft Plan - External Review** | 5/9/2025 | Draft plan for external review and sharing with the comprehensive plan committee. |
+| **Plan Presentation to Village of Teutopolis** | TBD | Final presentation for the comprehensive plan committee. |
+| **Final Assessment (Individual)** | 5/9/2025 | Individual final assessment of semester learning and leadership goals. |
 
 It is important to review the details of each of these deliverables, particularly since some have both draft and final components with separate deliverable dates. We will discuss this more during the first two weeks of class and will update based upon our shared expectations and timeline.
