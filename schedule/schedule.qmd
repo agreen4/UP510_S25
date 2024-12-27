@@ -2,7 +2,7 @@
 title: "Schedule"
 format: html
 toc: true
-sidebar: true
+sidebar: false
 editor: source
 ---
 
